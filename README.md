@@ -26,3 +26,15 @@ Containig five files:
 **message_reader.c** - user space program to read a message
 **message_slot.h**
 **Makefile**
+
+### Fourth Assignment - Distributed search using linux threads
+
+Containig one file:
+**distributed_search.c** - multi-threaded folder searching application
+
+### Fifth Assignment - Client and Server in linux using ports and TCP connection
+
+Containig two files:
+**pcc_client.c** - linux client send http request to linux server
+**pcc_server.c** - linux server send http response to linux client
+
